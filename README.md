@@ -26,9 +26,9 @@
 
 ### Languages and Tools:
 
-![image]()
 
-[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/82613065/115985374-437e9e80-a5b4-11eb-92b9-2d811a8f8282.png" />
+
+[<img align="left" alt="HTML5" width="100px" src="https://user-images.githubusercontent.com/82613065/115985374-437e9e80-a5b4-11eb-92b9-2d811a8f8282.png" />
 
 
 
