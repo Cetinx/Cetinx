@@ -1,7 +1,7 @@
 ### Hi there, I'm Çetin  👋
 
 
-[![Twitter a](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/%C3%A7etin-y%C4%B1lmaz-166927206/)
+[![Twitter a]()](https://www.linkedin.com/in/%C3%A7etin-y%C4%B1lmaz-166927206/)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
