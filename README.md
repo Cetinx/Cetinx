@@ -27,14 +27,14 @@
 
 ![image](https://user-images.githubusercontent.com/82613065/115984292-efbd8680-a5ae-11eb-86f6-ea0d49f618a9.png)
 
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://user-images.githubusercontent.com/82613065/115984336-46c35b80-a5af-11eb-8507-74fa53ccd4b6.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="![image](https://user-images.githubusercontent.com/82613065/115984272-dae0f300-a5ae-11eb-9479-8b9c232b814b.png)" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/82613065/115984272-dae0f300-a5ae-11eb-9479-8b9c232b814b.png" />][webdevplaylist]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 
 
