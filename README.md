@@ -27,7 +27,7 @@
 
 
 
-[<img align="left" alt="HTML5" width="100px" src="img/react.png" />]
+<img align="left" alt="HTML5" width="100px" src="img/react.png" />
 
 
 
