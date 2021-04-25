@@ -38,8 +38,8 @@
 <img align="left" alt="HTML5" width="50px" src="img/sql.png" />
 <img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/82613065/115985712-c18f7500-a5b5-11eb-9c94-5027e87689a3.png" />
 
-<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/82613065/115985374-437e9e80-a5b4-11eb-92b9-2d811a8f8282.png" />
-<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/82613065/115985374-437e9e80-a5b4-11eb-92b9-2d811a8f8282.png" />
+<img align="left" alt="HTML5" width="50px" src="![image](https://user-images.githubusercontent.com/82613065/115985766-0d421e80-a5b6-11eb-96ca-92745beba2f5.png)" />
+<img align="left" alt="HTML5" width="50px" src="img/spring.png" />
 
 
 
