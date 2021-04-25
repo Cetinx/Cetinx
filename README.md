@@ -1,7 +1,6 @@
-### Hi there, I'm Çetin -  [site][website] 👋
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+### Hi there, I'm Çetin  👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/%C3%A7etin-y%C4%B1lmaz-166927206/)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
