@@ -33,7 +33,7 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://user-images.githubusercontent.com/82613065/115984212-83428780-a5ae-11eb-9083-b6ef7b8551c3.png" />][webdevplaylist]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://user-images.githubusercontent.com/82613065/115984336-46c35b80-a5af-11eb-8507-74fa53ccd4b6.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="![image](https://user-images.githubusercontent.com/82613065/115984272-dae0f300-a5ae-11eb-9479-8b9c232b814b.png)" />][webdevplaylist]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 
