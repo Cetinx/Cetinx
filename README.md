@@ -27,7 +27,19 @@
 
 
 
+<img align="left" alt="HTML5" width="100px" src="img/html.png" />
+<img align="left" alt="HTML5" width="100px" src="img/css.png" />
+<img align="left" alt="HTML5" width="100px" src="img/bootstrap.jpg" />
+
+<img align="left" alt="HTML5" width="100px" src="img/javaScript.png" />
 <img align="left" alt="HTML5" width="100px" src="img/react.png" />
+
+
+<img align="left" alt="HTML5" width="100px" src="img/sql.png" />
+<img align="left" alt="HTML5" width="100px" src="img/Postgres.png" />
+
+<img align="left" alt="HTML5" width="100px" src="img/java.png" />
+<img align="left" alt="HTML5" width="100px" src="img/spring.png" />
 
 
 
