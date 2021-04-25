@@ -25,6 +25,7 @@
 
 ### Languages and Tools:
 
+![image](https://user-images.githubusercontent.com/82613065/115984292-efbd8680-a5ae-11eb-86f6-ea0d49f618a9.png)
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
