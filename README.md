@@ -1,4 +1,4 @@
-### I'm Çetin 👋
+### hi there I'm Çetin 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
