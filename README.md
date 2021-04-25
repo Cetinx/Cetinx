@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/%C3%A7etin-y%C4%B1lmaz-166927206/" />
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -50,7 +50,7 @@
 [twitter]: #
 [youtube]: #
 [instagram]: #
-[linkedin]: #
+[linkedin]: https://www.linkedin.com/in/%C3%A7etin-y%C4%B1lmaz-166927206/
 [webdevplaylist]: #
 [jsplaylist]: #
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
