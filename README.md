@@ -1,56 +1,17 @@
-### Hi there, I'm Çetin  👋
- <h3>About me !</h3>
+<p align="center"><img src="https://user-images.githubusercontent.com/75476607/110051432-e78f5a80-7d66-11eb-865c-33d152000220.gif"/></p>
+<h1 align="center">Hi 👋, I'm Çetin Yılmaz</h1>
+<h3 align="center">A Junior Full Stack Developer</h3>
 
-- 🌱 Java & React 🤣
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mehmetbasrioglu&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetbasrioglu" /> </p>
 
-### Connect with me:
+- 👨‍💻 All of my projects are available at [https://github.com/Cetinx](https://github.com/Cetinx)
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-
-### Languages and Tools:
+- ⚡ Fun fact **I love to draw and play guitar / drums & Relax Music & Discover & Travel & Pets & Read Books 😊 I'm very curious for everything.**
 
 
-
-[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/82613065/115985374-437e9e80-a5b4-11eb-92b9-2d811a8f8282.png" />][course]
-[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/82613065/115985473-aec87080-a5b4-11eb-8b12-4b032a55db0c.png" />][course]
-
-
-[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/82613065/115985618-5ba2ed80-a5b5-11eb-96b0-44c64f971207.png" />][course]
-[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/82613065/115985649-8d1bb900-a5b5-11eb-8d55-7868703a45c2.png" />][course]
-
-[<img align="left" alt="HTML5" width="50px" src="img/sql.png" />][course]
-[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/82613065/115985712-c18f7500-a5b5-11eb-9c94-5027e87689a3.png" />][course]
-
-[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/82613065/115985766-0d421e80-a5b6-11eb-96ca-92745beba2f5.png" />][course]
-[<img align="left" alt="HTML5" width="50px" src="img/spring.png" />][course]
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
 
 
-
-<br />
-<br />
-
----
-
-
-
-
-
-
-
-
-
-
-[website]: #
-[course]: #
-[twitter]: #
-[youtube]: #
-[instagram]: #
-[linkedin]: https://www.linkedin.com/in/%C3%A7etin-y%C4%B1lmaz-166927206/
-[webdevplaylist]: #
-[jsplaylist]: #
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetbasrioglu&show_icons=true&locale=en&" alt="mehmetbasrioglu" /></p>
